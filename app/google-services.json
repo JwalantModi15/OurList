@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975551428467",
+    "project_id": "shopping-list-app-3ec48",
+    "storage_bucket": "shopping-list-app-3ec48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975551428467:android:481806f214f8eb8296f706",
+        "android_client_info": {
+          "package_name": "com.techinnovator.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975551428467-2644n5hjvqe8bsrtr7fv69bc0mge47uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCox0RGrg0d34T6OQnGYcnvypbzWduvsjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975551428467-2644n5hjvqe8bsrtr7fv69bc0mge47uc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

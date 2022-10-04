@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/add" android:title="Add item" app:showAsAction="always"
+        android:icon="@drawable/ic_add_new"/>
+
+    <item android:id="@+id/deleteList" app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_delete"
+        android:title="Delete list" />
+
+    <item android:id="@+id/showListName" app:showAsAction="never"
+        android:title="Show list name" />
+
+    <item android:id="@+id/deletePurchaseItems" app:showAsAction="never"
+        android:title="Delete purchase items" />
+
+</menu>

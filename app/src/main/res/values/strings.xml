@@ -1,0 +1,382 @@
+<resources>
+    <string name="app_name">OurList</string>
+    <string-array name="list_items">
+        <item>milk</item>
+        <item>eggs</item>
+        <item>bread</item>
+        <item>tomatoes</item>
+        <item>sugar</item>
+        <item>onions</item>
+        <item>rice</item>
+        <item>ginger</item>
+        <item>garlic</item>
+        <item>potatoes</item>
+
+        <item>bananas</item>
+        <item>cucumber</item>
+        <item>salt</item>
+        <item>curd</item>
+        <item>butter</item>
+        <item>apples</item>
+        <item>coconut</item>
+        <item>chicken</item>
+        <item>carrots</item>
+        <item>ghee</item>
+
+        <item>lemon</item>
+        <item>onion</item>
+        <item>banana</item>
+        <item>paneer</item>
+        <item>coriander</item>
+        <item>veggies</item>
+        <item>tomato</item>
+        <item>curry leaves</item>
+        <item>toothpaste</item>
+
+        <item>yogurt</item>
+        <item>biscuits</item>
+        <item>green chillies</item>
+        <item>oil</item>
+        <item>beans</item>
+        <item>capsicum</item>
+        <item>cheese</item>
+        <item>cabbage</item>
+        <item>coffee</item>
+        <item>green chilli</item>
+
+        <item>peanuts</item>
+        <item>shampoo</item>
+        <item>cauliflower</item>
+        <item>besan</item>
+        <item>potato</item>
+        <item>spinach</item>
+        <item>atta</item>
+        <item>carrot</item>
+        <item>maida</item>
+        <item>poha</item>
+        <item>hand wash</item>
+
+        <item>jeera</item>
+        <item>fish</item>
+        <item>pasta</item>
+        <item>broccoli</item>
+        <item>mushroom</item>
+        <item>toor daal</item>
+        <item>tea</item>
+        <item>cooking oil</item>
+        <item>harpic</item>
+
+        <item>toilet cleaner</item>
+        <item>jaggery</item>
+        <item>soap</item>
+        <item>coriander leaves</item>
+        <item>orange</item>
+        <item>rava</item>
+        <item>lizol</item>
+        <item>maggi</item>
+        <item>toilet paper</item>
+        <item>oats</item>
+
+        <item>tea powder</item>
+        <item>beetroot</item>
+        <item>ice cream</item>
+        <item>cake</item>
+        <item>cornflakes</item>
+        <item>honey</item>
+        <item>urad daal</item>
+        <item>water melon</item>
+        <item>grapes</item>
+        <item>garbage bags</item>
+
+        <item>rajma</item>
+        <item>coconut oil</item>
+        <item>ginger garlic paste</item>
+        <item>olive oil</item>
+        <item>jam</item>
+        <item>sause</item>
+        <item>sunflower oil</item>
+        <item>pudina</item>
+        <item>green peas</item>
+        <item>frozen peas</item>
+
+        <item>chips</item>
+        <item>face wash</item>
+        <item>papad</item>
+        <item>snacks</item>
+        <item>noodles</item>
+        <item>oranges</item>
+        <item>lemons</item>
+        <item>mango</item>
+        <item>chana daal</item>
+        <item>basmati rice</item>
+
+        <item>soda</item>
+        <item>khaakhara</item>
+        <item>apple</item>
+        <item>pear</item>
+        <item>moong daal</item>
+        <item>sweet potato</item>
+        <item>mustard</item>
+        <item>ketchup</item>
+        <item>sabudana</item>
+        <item>mushrooms</item>
+
+        <item>dettol</item>
+        <item>dates</item>
+        <item>mustard oil</item>
+        <item>almonds</item>
+        <item>dahi</item>
+        <item>hing</item>
+        <item>peanut butter</item>
+        <item>brinjal</item>
+        <item>rice flour</item>
+        <item>garam masala</item>
+
+        <item>chocolate</item>
+        <item>match box</item>
+        <item>cashew</item>
+        <item>dosa</item>
+        <item>pastry</item>
+        <item>hair oil</item>
+        <item>cookies</item>
+        <item>dairy milk</item>
+        <item>pizza</item>
+        <item>peanut oil</item>
+        <item>coffee powder</item>
+
+        <item>wheat</item>
+        <item>wheat flour</item>
+        <item>all purpose flour</item>
+        <item>fruits</item>
+        <item>vegetables</item>
+        <item>drinks</item>
+        <item>coca cola</item>
+        <item>sprite</item>
+        <item>juice</item>
+        <item>tooth brush</item>
+
+        <item>chocolate powder</item>
+        <item>moong</item>
+        <item>pineapple</item>
+        <item>papaya</item>
+        <item>pomegranate</item>
+        <item>sugarcane</item>
+        <item>broom</item>
+        <item>washing powder</item>
+        <item>udad daal</item>
+        <item>comb</item>
+        <item>butter milk</item>
+        <item>sweets</item>
+
+        <item>apple pie</item>
+        <item>birthday cake</item>
+        <item>bread bun</item>
+        <item>brown bread</item>
+        <item>paav</item>
+        <item>doughnut</item>
+        <item>cream roll</item>
+        <item>cup cake</item>
+        <item>chocolate cake</item>
+        <item>pie</item>
+
+        <item>kulcha</item>
+        <item>sweet pastry</item>
+        <item>baby food</item>
+        <item>baby oil</item>
+        <item>baby lotion</item>
+        <item>alcohol</item>
+        <item>baby powder milk</item>
+        <item>baby nipple</item>
+        <item>beer</item>
+        <item>trimmer</item>
+
+        <item>shaving gel</item>
+        <item>razor blades</item>
+        <item>razor</item>
+        <item>perfume</item>
+        <item>insect spray</item>
+        <item>hair color</item>
+        <item>face cream</item>
+        <item>conditioner</item>
+        <item>body lotion</item>
+        <item>vodka</item>
+
+        <item>whiskey</item>
+        <item>apple juice</item>
+        <item>orange juice</item>
+        <item>coconut water</item>
+        <item>ice tea</item>
+        <item>cold coffee</item>
+        <item>mineral water</item>
+        <item>soft drinks</item>
+        <item>energy drinks</item>
+        <item>nimbu paani</item>
+
+
+        <item>achaar</item>
+        <item>chocolate syrup</item>
+        <item>fruit jam</item>
+        <item>ketchup</item>
+        <item>mix fruit juice</item>
+        <item>olives</item>
+        <item>rajma</item>
+        <item>syrup</item>
+        <item>tomato soup</item>
+        <item>tomato sause</item>
+
+        <item>vinegar</item>
+        <item>black tea</item>
+        <item>masala tea</item>
+        <item>cow milk</item>
+        <item>buffalo milk</item>
+        <item>curd</item>
+        <item>kheer</item>
+        <item>pudding</item>
+        <item>smoothie</item>
+        <item>french fries</item>
+
+        <item>seafood</item>
+        <item>sabzi</item>
+        <item>moongfali</item>
+        <item>moongfali tel</item>
+        <item>aalu</item>
+        <item>aam</item>
+        <item>akhrot</item>
+        <item>anaar</item>
+        <item>angoor</item>
+        <item>anjeer</item>
+
+        <item>avocados</item>
+        <item>bandgobhi</item>
+        <item>bhindi</item>
+        <item>bhutta</item>
+        <item>corn</item>
+        <item>corn soup</item>
+        <item>salad</item>
+        <item>strawberry</item>
+        <item>cherries</item>
+        <item>chole</item>
+
+        <item>chana</item>
+        <item>gobhi</item>
+        <item>kaju</item>
+        <item>jamun</item>
+        <item>khajoor</item>
+        <item>kiwi</item>
+        <item>lahsun</item>
+        <item>methi</item>
+        <item>mooli</item>
+        <item>mosambi</item>
+
+        <item>mushrooms</item>
+        <item>naashpati</item>
+        <item>nimbu</item>
+        <item>pudina</item>
+        <item>pista</item>
+        <item>papita</item>
+        <item>pulses</item>
+        <item>pumpkin</item>
+        <item>pyaaj</item>
+        <item>raddish</item>
+
+        <item>santra</item>
+        <item>saunf</item>
+        <item>soyabean</item>
+        <item>sweet corn</item>
+        <item>tulsi patta</item>
+        <item>tinde</item>
+        <item>raai</item>
+        <item>bajra</item>
+        <item>basmati chawal</item>
+        <item>black rajma</item>
+
+        <item>arhar daal</item>
+        <item>chawal</item>
+        <item>coloured pasta</item>
+        <item>macroni</item>
+        <item>masoor ki daal</item>
+        <item>oats flakes</item>
+        <item>cough syrup</item>
+        <item>first aid kit</item>
+        <item>bandage</item>
+        <item>vaseline</item>
+
+        <item>vitamin c tablets</item>
+        <item>baking soda</item>
+        <item>baking powder</item>
+        <item>banana chips</item>
+        <item>potato chips</item>
+        <item>caramel</item>
+        <item>coconut powder</item>
+        <item>khaskhas</item>
+        <item>kishmish</item>
+        <item>sausages</item>
+
+        <item>sarso ka tel</item>
+        <item>rice oil</item>
+        <item>rai ka tel</item>
+        <item>sesame oil</item>
+        <item>veg sausage</item>
+        <item>soy milk</item>
+        <item>veg burgers</item>
+        <item>sandwich bread</item>
+        <item>sandwich</item>
+        <item>pancakes</item>
+
+        <item>sushi</item>
+        <item>chewing gum</item>
+        <item>chocolate biscuits</item>
+        <item>dark chocolate</item>
+        <item>cadbury</item>
+        <item>gajar ka halwa</item>
+        <item>jelly</item>
+        <item>oats cookies</item>
+        <item>salted peanuts</item>
+        <item>energy bars</item>
+
+        <item>toffee</item>
+        <item>oreos</item>
+        <item>5 star</item>
+        <item>munch</item>
+        <item>perk</item>
+        <item>popcorn</item>
+        <item>pakode</item>
+        <item>adrak</item>
+        <item>adrak powder</item>
+        <item>capsicum</item>
+
+        <item>chowmein</item>
+        <item>coriander</item>
+        <item>dhaniya</item>
+        <item>elaichi</item>
+        <item>garam masala</item>
+        <item>haldi</item>
+        <item>jeera</item>
+        <item>kali mirch</item>
+        <item>mirch</item>
+        <item>kesar</item>
+
+        <item>lal mirch</item>
+        <item>laung</item>
+        <item>masala powder</item>
+        <item>jaljeera</item>
+        <item>namak</item>
+        <item>raita</item>
+        <item>red chilly powder</item>
+        <item>chilly powder</item>
+        <item>spices</item>
+        <item>tej patta</item>
+
+        <item>mint</item>
+        <item>tulsi</item>
+        <item>tulsi powder</item>
+        <item>neem</item>
+        <item>mint tea</item>
+        <item>aloe vera</item>
+        <item>aloe vera gel</item>
+        <item>ice candy</item>
+        <item>lolipop</item>
+        <item>namkeen</item>
+
+    </string-array>
+</resources>

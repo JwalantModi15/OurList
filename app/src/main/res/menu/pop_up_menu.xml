@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Show list name" android:id="@+id/popListName"
+        app:showAsAction="never"/>
+
+    <item android:title="Total spend amount" android:id="@+id/popTotalSpend"
+        app:showAsAction="never"/>
+
+    <item android:title="Rename list" android:id="@+id/popRename"
+        app:showAsAction="never"/>
+
+    <item android:title="Share list" android:id="@+id/popShare"
+        app:showAsAction="never"/>
+
+<!--    <item android:title="Delete list" android:id="@+id/popDelete"-->
+<!--        app:showAsAction="never"/>-->
+
+</menu>

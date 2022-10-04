@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/addList" android:title="Add Shopping List" app:showAsAction="never" />
+    <item android:id="@+id/rate" android:title="Rate This App" app:showAsAction="never" />
+    <item android:id="@+id/about" android:title="About OurList" app:showAsAction="never" />
+    <item android:id="@+id/privacyPolicy" android:title="Privacy Policy" app:showAsAction="never" />
+
+</menu>
