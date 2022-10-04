@@ -1,6 +1,6 @@
 # OurList - My Grocery List
 
-OurList - My Grocery List is an Android Application, developed using Kotlin language in android studio.
+OurList - My Grocery List is an Android Application, designed and developed using XML and Kotlin language in android studio.
 
 ## Description:
 
