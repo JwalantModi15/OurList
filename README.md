@@ -6,9 +6,9 @@ OurList - My Grocery List
 - Users of the app can easily create grocery or shopping lists by adding items and their prices.
 - Follows the MVVM clean architecture and uses Android Room Database (SQLite) to store any lists.
 
-### Demo Video
-https://www.youtube.com/watch?v=X2XkwmMo0xw&feature=youtu.be
+#### Demo Video
+Link => https://www.youtube.com/watch?v=X2XkwmMo0xw&feature=youtu.be
 
-### Live
-https://play.google.com/store/apps/details?id=com.techinnovator.notesapp
+#### Live
+Link => https://play.google.com/store/apps/details?id=com.techinnovator.notesapp
 
