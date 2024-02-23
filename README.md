@@ -1,12 +1,12 @@
 # OurList - My Grocery List
 
-OurList - My Grocery List is an Android Application, designed and developed using XML and Kotlin language in android studio.
+OurList - My Grocery List is an Android Application, developed using Kotlin.
 
 ## Description:
 
-- Built an Android Application using Kotlin Language in Android Studio, it follows MVVM Architecture.
-- OurList is a Grocery List app that helps the users to create the Grocery List to keep a purchase record and track the shopping expenses.
-- It follows MVVM Architecture and uses Room Database to store Grocery List.
+• OurList is a Grocery List app developed using Kotlin, Java to keep a track of grocery shopping and its expanses. 
+• Users of the app can easily create grocery or shopping lists by adding items and their prices. 
+• Follows the MVVM clean architecture and uses Android Room Database (SQLite) to store any lists. 
 
 ### Live:
 https://play.google.com/store/apps/details?id=com.techinnovator.notesapp
