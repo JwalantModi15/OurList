@@ -8,6 +8,8 @@ OurList - My Grocery List is an Android Application, designed and developed usin
 - OurList is a Grocery List app that helps the users to create the Grocery List to keep a purchase record and track the shopping expenses.
 - It follows MVVM Architecture and uses Room Database to store Grocery List.
 
-## Demo Video:
+### Live:
+https://play.google.com/store/apps/details?id=com.techinnovator.notesapp
 
+### Demo Video:
 https://youtu.be/X2XkwmMo0xw
